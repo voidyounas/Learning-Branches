@@ -10,7 +10,9 @@
 
     The branches will be later merged to the master/main branch after so many PRs and checking and will confirm to merge the branches to the main/master
 
-# Conclict#
+---
+
+# Conflict#
 
     Sometimes it may cause a conflict due to same work so it'll warn you and asks you which branch to be accepted to be merged
 
