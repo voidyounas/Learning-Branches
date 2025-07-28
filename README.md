@@ -32,7 +32,7 @@ Git will alert you and ask which version to keep — a valuable part of collabor
 ---
 ## Source
 
-Huge thanks to mmy mentor and best senior **Ahmad Bhai** for teaching me all this.
+Huge thanks to my mentor and best senior **Ahmad Bhai** for teaching me all this.
 You don't need a 3 4 hrs tutorials--just sit , focus , learn , execute , practice
 
 ---
