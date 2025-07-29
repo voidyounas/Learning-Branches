@@ -1,6 +1,8 @@
 # Branches
 
 Learning branches on GitHub for collaborative coding and team projects.
+In this repo, I'll learn about branches and will add different codes just
+for learning, and practice.
 
 ---
 
