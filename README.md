@@ -32,9 +32,11 @@ Sometimes, **merge conflicts** may occur when different branches change the same
 Git will alert you and ask which version to keep — a valuable part of collaboration!
 
 ---
+
 ## Source
 
 Huge thanks to my mentor and best senior **Ahmad Bhai** for teaching me all this.
+
 You don't need a 3 4 hrs tutorials--just sit , focus , learn , execute , practice
 
 ---
